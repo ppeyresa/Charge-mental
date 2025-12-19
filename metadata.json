@@ -1,0 +1,7 @@
+{
+  "name": "Life Admin - Gestionnaire de Charge Mentale",
+  "description": "Une application intelligente pour centraliser, automatiser et simplifier votre gestion administrative quotidienne, réduisant ainsi votre charge mentale.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
